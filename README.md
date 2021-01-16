@@ -1,2 +1,2 @@
-# angry-bird-version-2
-image loading
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
